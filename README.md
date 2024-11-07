@@ -24,11 +24,7 @@ AETHERzX Discord Music Bot is an advanced music bot for Discord that allows user
    ```bash
    npm install
    ```
-   After installation finishes run
-   ``` 
-   node register.js
-   ```
-   to deploy slash commands
+   After installation finishes run `node register.js` to deploy slash commands
 
 4. Configure your bot by filling out the `config.json` file as needed.
 
