@@ -1,0 +1,24 @@
+{
+    "dependencies": {
+        "@discordjs/opus": "^0.9.0",
+        "@discordjs/voice": "^0.17.0",
+        "@distube/deezer": "^2.0.1",
+        "@distube/direct-link": "^1.0.1",
+        "@distube/soundcloud": "^2.0.3",
+        "@distube/spotify": "^2.0.2",
+        "@distube/youtube": "^1.0.4",
+        "@distube/yt-dlp": "^2.0.1",
+        "discord.js": "^14.15.3",
+        "distube": "^5.0.2",
+        "distube-apple-music": "^0.1.0",
+        "ffmpeg-static": "^5.2.0",
+        "sodium-native": "^4.1.1"
+    },
+    "name": "aetherzx-discord-music-bot",
+    "description": "\"AETHERzX-Discord-Music-Bot\" an Advanced Discord Music Bot for YOU",
+    "version": "2.2.1",
+    "main": "index.js",
+    "repository": "https://github.com/aetherzcode/DC-Music-bot",
+    "author": "AETHER",
+    "license": "MIT"
+}
